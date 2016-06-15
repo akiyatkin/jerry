@@ -1,0 +1,9 @@
+{
+    "name": "akiyatkin/jerry",
+    "description": "Помощник для запуска сайта на infrajs",
+    "license": "GPL3",
+    "require": {
+    	"components/jquery": "~2",
+        "twbs/bootstrap": "~3"
+    }
+}

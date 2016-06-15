@@ -1,0 +1,10 @@
+{
+	"name":"itlife/name",
+	"dependencies":{
+		"smoothscroll-for-websites":"~1",
+		"gmap3": "~6",
+		"waypoints":"~4",
+		"animate.css":"~3",
+		"flexslider":"~2"
+	}
+}
