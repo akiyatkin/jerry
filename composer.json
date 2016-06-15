@@ -24,6 +24,12 @@
 		"infrajs/catalog":"~1",
 		"infrajs/ascroll":"~1",
         "infrajs/config":"~1",
+        
+        "infrajs/layer-css":"~1",
+		
+		"infrajs/activelink":"~1",
+		"infrajs/urlalias":"~1",
+		
     	"components/jquery": "~2",
         "twbs/bootstrap": "~3"
     }
