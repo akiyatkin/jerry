@@ -3,6 +3,8 @@
     "description": "Помощник для запуска сайта на infrajs",
     "license": "GPL3",
     "require": {
+        "infrajs/config":"~1",
+        "infrajs/collect":"~1",
     	"components/jquery": "~2",
         "twbs/bootstrap": "~3"
     }
