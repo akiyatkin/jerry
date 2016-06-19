@@ -24,6 +24,7 @@
 		"infrajs/ascroll":"~1",
         "infrajs/config":"~1",
         "infrajs/layer-env":"~1",
+        "infrajs/layer-deep":"~1",
 		"infrajs/subscribe":"~1",
 		"infrajs/infratag":"~1",
 		"infrajs/flexslider":"~1",
