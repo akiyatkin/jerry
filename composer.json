@@ -31,6 +31,7 @@
         "infrajs/layer-css":"~1",
 		"infrajs/activelink":"~1",
 		"infrajs/urlalias":"~1",
+		"akiyatkin/photoreports":"~1",
 		
 		"dimsemenov/magnific-popup":"~1",
 		"fortawesome/font-awesome":"~4",
