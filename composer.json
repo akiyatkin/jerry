@@ -1,7 +1,6 @@
 {
     "name": "akiyatkin/jerry",
     "description": "Помощник для запуска сайта на infrajs",
-    "license": "GPL3",
     "require": {
     	"infrajs/infrajs":"~1",
 	"infrajs/router":"~1",
